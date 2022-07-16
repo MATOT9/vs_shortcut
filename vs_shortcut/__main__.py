@@ -15,7 +15,7 @@ from . import __version__
 
 
 def main():
-    os.system("cmd /c visual_studio_enterprise.bat")
+    os.system("cmd /c visualstudio.bat")
 
 
 if __name__ == "__main__":
