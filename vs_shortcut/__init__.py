@@ -11,7 +11,7 @@ and a description just like spyder IDE or VSCode.
 
 __author__ = "Maxime Tousignant-Tremblay"
 __copyright__ = "Copyright (C) 2022 Maxime Tousignant-Tremblay"
-__license__ = "GNU AGPLv3"
+__license__ = "AGPL-3.0"
 
 # Standard library
 from importlib.metadata import PackageNotFoundError  # pragma: no cover
