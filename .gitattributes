@@ -1,0 +1,2 @@
+src/vs_shortcut/_version.py export-subst
+vs_shortcut/_version.py export-subst

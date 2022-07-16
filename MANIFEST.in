@@ -1,0 +1,4 @@
+include versioneer.py
+exclude .git build recipe __pycache__
+include vs_shortcut/_version.py
+include vs_shortcut/visualstudio.bat
