@@ -17,7 +17,7 @@ from . import __version__
 
 
 def main():
-    call("C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\devenv.exe")
+    call("C:/Program Files/Microsoft Visual Studio/2022/Enterprise/Common7/IDE/devenv.exe")
 
 
 if __name__ == "__main__":
