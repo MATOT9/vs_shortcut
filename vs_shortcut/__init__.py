@@ -1,10 +1,18 @@
 """
-    vs_shortcut - Microsoft Visual Studio shortcut for Anaconda-navigator
-    =====================================================================
+    vs_shortcut - Visual Studio IDE shortcut creator for Anaconda-navigator
+    =======================================================================
 
-    Provides an application shortcut for Microsoft Visual Studio in
-    Anaconda-navigator to prevent environment bugs. The shortcut includes an
-    icon and a description just like spyder IDE or VSCode.
+    Provides an application shortcut for Microsoft Visual Studio IDE in
+    Anaconda-navigator to automatically activate a given conda environment
+    on startup.
+    
+    The default Visual Studio Developer PowerShell terminal then have full
+    access to conda commands like a regular anaconda environment prompt. All
+    scripts are then run with that terminal by default.
+    
+    The vs_shortcut package is designed for Windows OS and uses menuinst to
+    create a Start Menu item. Just like Spyder IDE and VS Code shortcuts,
+    Visual Studio icon and description is included.
 
 """
 
