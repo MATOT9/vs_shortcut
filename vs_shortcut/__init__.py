@@ -9,7 +9,7 @@
 """
 
 __author__ = "Maxime Tousignant-Tremblay"
-__copyright__ = "Copyright (C) 2022 Maxime Tousignant-Tremblay"
+__copyright__ = "Copyright © 2022 Maxime Tousignant-Tremblay"
 __license__ = "AGPL-3.0"
 __status__ = "Prototype"
 
