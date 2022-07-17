@@ -9,15 +9,15 @@ __license__ = "AGPL-3.0"
 __status__ = "Prototype"
 
 # Standard library
-import os
 import sys
+from subprocess import call
 
 # Local import
 from . import __version__
 
 
 def main():
-    os.system("cmd /c visualstudio.bat")
+    call("C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\devenv.exe")
 
 
 if __name__ == "__main__":
